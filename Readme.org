@@ -1,0 +1,203 @@
+#+BLOG: medialab-prado.es/datalab
+#+CATEGORY: calendario, datalab 
+#+TAGS: boletín, actividades, 2016, 2017, datascience, datajournalism, periodismodatos, periodismodedatos, openaccess, openscience, citizendrivendata, data, opendata, datos, datosabiertos, alfabetización
+#+DESCRIPTION: Qué es el Datalab de Medialab Prado
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: Datalab de Medialab Prado
+#+DATE: [2016-12-14 mié 10:00]
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+TOC: headlines 2
+#+LATEX_HEADER: \usepackage[english]{babel}
+#+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
+#+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Herramientas de Scraping de PDF y Web.">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight notes)
+#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
+#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
+#+LATEX_HEADER: \maketitle
+#+LATEX_HEADER: \tableofcontents
+
+En 2016 ha comenzado sus actividades Datalab, uno de los nuevos laboratorios de Medialab-Prado que se dedica a la investigación y prototipado de proyectos de datos.
+
+Las actividades relacionadas con datos llevan realizándose hace años en Medialab, desde sus inicios. De forma estable, la línea /Visualizar/, comienza en 2007 para atender a la disciplina de la visualización de datos, un elemento transversal que utiliza el inmenso poder de comunicación de las imágenes para explicar de manera comprensible las relaciones de significado, causa y dependencia que se pueden encontrar entre las grandes masas abstractas de información que generan los procesos científicos y sociales.
+
+El proyecto Visualizar lo inicia José Luis de Vicente como parte de un proceso de investigación abierto y participativo en torno a la teoría, las herramientas y las estrategias de visualización de información.
+
+Esta relación explica también cómo Adrian Holovaty, mentor de la primera edición de Visualizar, participa días después en la reunión promovida por O'Reilly en Sebastopol (California) donde se promueven los [[https://opengovdata.org/][8 principios de los datos abiertos de los gobiernos]] (Open Government Data); o Benjamin Fry, doctor por el MIT Media Laboratory donde forma parte del Aesthetics + Computation Group, dedicado a la investigación combinada de campos como la informática, la estadística, el diseño gráfico y la visualización de datos como herramientas para comprender datos complejos.
+
+También otoño de 2011, tras una jornada sobre datos abiertos realizada junto con [[http://www.civio.es][Civio]] y [[http://www.access-info.org][Access Info]], se crea el [[http://medialab-prado.es/article/periodismo_de_datos_-_grupo_de_trabajo][Grupo de Periodismo de Datos]], dedicado a compartir, difundir, explorar y producir proyectos o herramientas periodísticas donde el trabajo con los datos es crucial. La actividad de este grupo se ha traducido en más de 30 actividades mensuales, cuatro talleres de producción de periodismo de datos, cuatro jornadas realizadas en colaboración con Open Knowledge España y más de 400 personas apuntadas a la lista de correo y de 800 apuntadas al Meetup.
+
+Son dos de los ejemplos más destacados y también continuados en el tiempo, aunque entre medias se producen cientos de actividades relacionadas con los datos, entre las que se podrían incluir la celebración del día de los datos abiertos, la celebración del Ada Day, la celebración del Día del Software Libre, entre otras muchas.
+
+En primavera de 2015 Medialab Prado propuso ir un paso más allá y reunión a diferentes organizaciones e iniciativas en torno a un programa de actividades que exploró las prácticas creativas, sociales y políticas relacionadas con los datos: [[http://medialab-prado.es/article/ojoaldata][Ojo al Data. Cultura, economía y política de los datos]]. De aquel programa salieron muchas propuestas interesantes. La que más ha perdurado en el tiempo ha sido la del grupo [[http://medialab-prado.es/article/ojoaldata100][Ojoaldata100]], que proponía identificar los 100 conjuntos de datos más importantes para que libere una ciudad, al estilo de los [[http://www.transparencia.org.es/][80 indicadores de Transparencia Internacional]] o los [[http://www.opendata500.com/][Open Data 500]] para los países.
+
+A principios de octubre de 2016 se celebró en Madrid la [[http://opendatacon.org][Conferencia Internacional de Datos Abiertos]], los días 6 y 7, y por ello Medialab-Prado participó organizando tres pre eventos oficiales ([[http://medialab-prado.es/article/visualizar16-ciudades-abiertas-open-cities][Visualizar'16]], [[http://medialab-prado.es/article/journocoders-cuenta-la-realidad-con-herramientas-de-datos][Journocoders]] y [[http://opencitiessummit.org][Open Cities Summit]]), una [[http://opendatacon.org/agenda/social-events/celebrate-open-data-week-in-madrid/][fiesta]], un [[http://opendatacon.org/agenda/exhibitors/][stand en la conferencia oficial]] y [[http://opendatacon.org/agenda/][miembros de Ojoaldata100 presentaron el estado actual del proyecto]].
+
+* Datalab, 2016
+
+Este año hemos realizado las siguientes actividades:
+
+- [[https://www.meetup.com/es-ES/Madrid-Periodismo-de-datos-Meetup/][Sesiones mensuales del grupo de periodismo de datos]].
+- [[http://jpd16.okfn.es][Jornadas de Periodismo de datos]]
+- [[http://medialab-prado.es/article/presupuestos-abiertos-en-cultura][Kulturometer]]
+- [[https://github.com/medialab-prado/visualizar16][Visualizar'16]]
+- [[http://journocoders.schoolofdata.org][Journocoders]]
+- [[http://opencitiessummit.org][Open Cities Summit]]
+- [[http://medialab-prado.es/article/dia-de-ada-2016][Ada Day 2016]]
+- [[https://www.meetup.com/es-ES/MAD-for-OpenStack/][Meetup Mad4OpenStack]]
+- [[https://www.meetup.com/es-ES/Data-Science-Madrid/][Meetup Data Science Madrid]]
+- [[https://www.meetup.com/es-ES/rladies-madrid/events/235214827/][Meetup R Ladies]]
+- [[https://github.com/medialab-prado/datosddhh][Taller de Producción de Periodismo de Datos]]
+** Sesiones mensuales del grupo de periodismo de datos
+- [[https://www.meetup.com/es-ES/Madrid-Periodismo-de-datos-Meetup/][Meetup]] 
+** Jornadas de Periodismo de datos
+** Kulturometer
+** Visualizar'16
+** Journocoders
+** Open Cities Summit
+** Ada Day 2016
+- URL: http://medialab-prado.es/article/dia-de-ada-2016
+- Vídeo: https://www.youtube.com/watch?v=WEv9DBbbWnM
+** IODC16
+International Open Data Conference 2016
+https://internationalopendataconfer2016.sched.org/event/7PVj/the-ojoaldata100-initiative-for-harmonising-datasets-in-smart-city-open-data-portals?iframe=no&w=&sidebar=yes&bg=no
+** Meetup Mad4OpenStack
+** Meetup Data Science Madrid
+** Meetup R Ladies
+- Meetup: https://www.meetup.com/es-ES/rladies-madrid/events/235214827/
+- MLP: http://medialab-prado.es/article/r-ladies-madrid-nlp-para-todas
+- Presentación de Laura Bendayan: https://drive.google.com/open?id=1S0w6PPkzjzX2lxigbBGbrVJamyHdGp3_UMhgDth6A5s
+- Presentación de Leticia Martín-Fuertes: https://dl.dropboxusercontent.com/u/5638597/NLP%20con%20R%20-%20Friends.pptx
+- Enlaces: http://lingwars.github.io/blog/
+** Taller de Producción de Periodismo de Datos
+** Exposiciones
+
+* Datalab, 2017
+
+** Resumen de actividades
+- Grupo de periodismo de datos
+- Grupo de alfabetización digital
+- Grupo de datos abiertos
+- Grupo de documentación y narrativas digitales
+- Grupo de transparencia en las contrataciones públicas
+- Jornadas de Periodismo de Datos
+- Visualizar
+- Taller de producción de periodismo de datos
+- Residencias
+- Viajes
+- Hackatón(ones)
+- Hack the News
+- Parcours
+- Meetup Data Science Madrid
+- Meetup R Ladies
+- Meetup Mad4OpenStack
+
+** Grupo de periodismo de datos
+- Responsable: Adrián Blanco
+- Sesiones: 6
+
+*** Sesiones
+- Debate sobre periodismo y periodismo de datos
+- Recolección
+- Análisis
+- Limpieza
+- Visualización
+- Mapas
+- Publicación web
+
+** Grupo de alfabetización digital
+- Responsable: 
+- Sesiones: 6
+
+*** Sesiones
+- Hardware
+- Software
+- Consola
+- Editor de textos
+- Tipos de documentos
+- Formatos de documentos
+- Herramientas de manipulación/conversión/uso de documentos
+- Programación
+ 
+** Grupo de datos abiertos
+- Responsable:
+- Sesiones: 6
+
+*** Sesiones
+- Datos abiertos
+- Portales de transparencia
+- Portales de datos
+- Tipos de datos
+- Formatos de datos
+- Herramientas de manipulación/conversión/edición de datos (expresiones regulares, comandos, Open Refine...).
+- Publicación
+
+** Documentación y narrativas digitales
+- Responsables: Sara Tarancón y María Navarro
+- Sesiones: 6
+*** Sesiones
+- Blog
+- Wiki
+- Podcast
+- Vídeo
+- Uso de archivos
+
+** Transparencia contrataciones públicas
+
+** Jornadas de Periodismo de datos
+- Cuándo: <2017-05-04 jue>--<2017-05-07 dom>
+** Visualizar'17
+*** Cuándo
+- Total: <2017-09-15 vie>--<2017-09-30 sáb>
+- Simposio: <2017-09-15 vie>--<2017-09-16 sáb>
+- Taller: <2017-09-17 dom>--<2017-09-29 vie>
+- Presentación: <2017-09-30 sáb>
+- Exposición:
+*** Temática
+
+*** Mentores
+
+** Taller de producción de periodismo de datos
+*** Cuándo
+- Primera sesión: <2017-10-20 vie>--<2017-10-22 dom>
+- Intermedio: <2017-11-18 sáb>
+- Segunda sesión: <2017-12-01 vie>--<2017-12-03 dom>
+*** Temática
+Migraciones
+** AdaDay2017
+- Cuándo: <2017-10-10 mar>
+- Por qué: http://findingada.com/about/when-is-ald/
+** Residencias
+
+** Viajes
+
+** Hackatón(ones)
+
+** Hack the News
+
+** Parcour
+
+** Meetup Data Science Madrid
+
+** Meetup R Ladies
+
+** Meetup Mad4OpenStack
+** Meetup C++
+** Meetup Python Madrid
+** Meetup R Madrid
+** Día de amor por el software libre, Free Software Love Day
+- Cuándo: <2017-02-14 mar>
+** Día de los datos abiertos, Open Data Day
+- Cuándo: <2017-03-04 sáb>--<2017-03-05 dom>
+  
