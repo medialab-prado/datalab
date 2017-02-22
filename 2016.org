@@ -1,0 +1,48 @@
+#+BLOG: medialab-prado.es/datalab
+#+CATEGORY: calendario, datalab 
+#+TAGS: boletín, actividades, 2016, 2017, datascience, datajournalism, periodismodatos, periodismodedatos, openaccess, openscience, citizendrivendata, data, opendata, datos, datosabiertos, alfabetización
+#+DESCRIPTION: Boletín Datalab 2016
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: Datalab de Medialab Prado, 2016
+#+DATE: [2016-12-14 mié 10:00]
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+
+Este año hemos realizado las siguientes actividades:
+
+- [[https://www.meetup.com/es-ES/Madrid-Periodismo-de-datos-Meetup/][Sesiones mensuales del grupo de periodismo de datos]].
+- [[http://jpd16.okfn.es][Jornadas de Periodismo de datos]]
+- [[http://medialab-prado.es/article/presupuestos-abiertos-en-cultura][Kulturometer]]
+- [[https://github.com/medialab-prado/visualizar16][Visualizar'16]]
+- [[http://journocoders.schoolofdata.org][Journocoders]]
+- [[http://opencitiessummit.org][Open Cities Summit]]
+- [[http://medialab-prado.es/article/dia-de-ada-2016][Ada Day 2016]]
+- [[https://www.meetup.com/es-ES/MAD-for-OpenStack/][Meetup Mad4OpenStack]]
+- [[https://www.meetup.com/es-ES/Data-Science-Madrid/][Meetup Data Science Madrid]]
+- [[https://www.meetup.com/es-ES/rladies-madrid/events/235214827/][Meetup R Ladies]]
+- [[https://github.com/medialab-prado/datosddhh][Taller de Producción de Periodismo de Datos]]
+** Sesiones mensuales del grupo de periodismo de datos
+- [[https://www.meetup.com/es-ES/Madrid-Periodismo-de-datos-Meetup/][Meetup]] 
+** Jornadas de Periodismo de datos
+** Kulturometer
+** Visualizar'16
+** Journocoders
+** Open Cities Summit
+** Ada Day 2016
+- URL: http://medialab-prado.es/article/dia-de-ada-2016
+- Vídeo: https://www.youtube.com/watch?v=WEv9DBbbWnM
+** IODC16
+International Open Data Conference 2016
+https://internationalopendataconfer2016.sched.org/event/7PVj/the-ojoaldata100-initiative-for-harmonising-datasets-in-smart-city-open-data-portals?iframe=no&w=&sidebar=yes&bg=no
+** Meetup Mad4OpenStack
+** Meetup Data Science Madrid
+** Meetup R Ladies
+- Meetup: https://www.meetup.com/es-ES/rladies-madrid/events/235214827/
+- MLP: http://medialab-prado.es/article/r-ladies-madrid-nlp-para-todas
+- Presentación de Laura Bendayan: https://drive.google.com/open?id=1S0w6PPkzjzX2lxigbBGbrVJamyHdGp3_UMhgDth6A5s
+- Presentación de Leticia Martín-Fuertes: https://dl.dropboxusercontent.com/u/5638597/NLP%20con%20R%20-%20Friends.pptx
+- Enlaces: http://lingwars.github.io/blog/
+** Taller de Producción de Periodismo de Datos
+** Exposiciones
+
+

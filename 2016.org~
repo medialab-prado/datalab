@@ -8,7 +8,6 @@
 #+DATE: [2016-12-14 mié 10:00]
 #+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 
-#+BEGIN_EXAMPLE
  ____  _                           _     _                    _       
 | __ )(_) ___ _ ____   _____ _ __ (_) __| |_  _____    __ _  | | __ _ 
 |  _ \| |/ _ \ '_ \ \ / / _ \ '_ \| |/ _` \ \/ / __|  / _` | | |/ _` |
@@ -28,45 +27,23 @@
 |____/ \__,_|\__\__,_|_|\__,_|_.__/  |_____|\___/|_|/_/   
 
 
-#+END_EXAMPLE
 * Resumen de actividades                                                :TOC:
- - [[#taller-de-producción-de-periodismo-de-datos][Taller de producción de periodismo de datos]]
-   - [[#cuándo][Cuándo]]
-   - [[#temática][Temática]]
- - [[#grupo-de-periodismo-de-datos-journocodersmad][Grupo de periodismo de datos: JournocodersMAD]]
-   - [[#temas][Temas]]
-   - [[#mapas-con-qgis-y-d3js][Mapas con QGIS y D3js]]
- - [[#grupos-de-alfabetización-digital][Grupos de alfabetización digital]]
-   - [[#temas-1][Temas]]
- - [[#grupo-de-datos-abiertos][Grupo de datos abiertos]]
-   - [[#temas-2][Temas]]
- - [[#grupo-de-documentación-y-narrativas-digitales][Grupo de documentación y narrativas digitales]]
-   - [[#temas-3][Temas]]
- - [[#transparencia-contrataciones-públicas][Transparencia contrataciones públicas]]
- - [[#jornadas-de-periodismo-de-datos][Jornadas de Periodismo de datos]]
- - [[#visualizar17][Visualizar'17]]
-   - [[#cuándo-1][Cuándo]]
-   - [[#temática-1][Temática]]
- - [[#adaday2017][AdaDay2017]]
- - [[#hackatónones][Hackatón(ones)]]
- - [[#editors-lab][Editors Lab]]
- - [[#parcours][Parcours]]
- - [[#meetup-data-science-madrid][Meetup Data Science Madrid]]
-   - [[#fechas-data-science-madrid][Fechas Data Science Madrid]]
-   - [[#sesión-21-febrero-aprendizaje-automático-con-r-y-python][Sesión 21 febrero: aprendizaje automático con R y Python]]
-   - [[#sesión-miércoles-22-de-marzo-dsm--r-ladies][Sesión Miércoles 22 de Marzo, DSM & R-Ladies]]
-   - [[#martes-18-de-abril][Martes 18 de abril]]
-   - [[#mayo-martes-16][Mayo: martes 16]]
-   - [[#junio-martes-20][Junio: martes 20]]
- - [[#r-ladies][R-Ladies]]
-   - [[#manipulación-de-datos-y-aprendizaje-automático-con-r-en-el-sector-financiero][Manipulación de datos y aprendizaje automático con R en el sector financiero]]
- - [[#ilovefs][ILOVEFS]]
-   - [[#editatona-sobre-científicas-en-la-wikipedia][Editatona sobre científicas en la Wikipedia]]
-   - [[#14-febrero-día-del-amor-por-el-software-libre][14 Febrero: Día del amor por el software libre]]
- - [[#día-de-los-datos-abiertos][Día de los datos abiertos]]
-   - [[#4-marzo][4 Marzo:]]
- - [[#jornadas-de-periodismo-de-datos-2017][Jornadas de Periodismo de Datos 2017]]
-
+- Grupo de periodismo de datos
+- Grupo de alfabetización digital
+- Grupo de datos abiertos
+- Grupo de documentación y narrativas digitales
+- Grupo de transparencia en las contrataciones públicas
+- Jornadas de Periodismo de Datos
+- Visualizar
+- Taller de producción de periodismo de datos
+- Residencias
+- Viajes
+- Hackatón(ones)
+- Hack the News
+- Parcours
+- Meetup Data Science Madrid
+- Meetup R Ladies
+- Meetup Mad4OpenStack
 * Taller de producción de periodismo de datos                           :TOC:
 - URL: http://medialab-prado.es/article/v-taller-de-produccion-de-periodismo-de-datos-la-espana-vacia
 - Convocatoria de proyectos: http://medialab-prado.es/article/v-taller-de-produccion-de-periodismo-de-datos-la-espana-vacia-convocatoria-de-proyectos
