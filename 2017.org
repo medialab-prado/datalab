@@ -79,7 +79,7 @@
 ** Temática
 La España vacíaMigraciones
 
-* Grupo de periodismo de datos: JournocodersMAD :periodismodatos:recolección:análisis:limpieza:visualización:mapas:web:TOC:
+* Grupo de periodismo de datos: JournocodersMAD
 ** Temas
 - Debate sobre periodismo y periodismo de datos
 - Recolección
