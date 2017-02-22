@@ -1,0 +1,63 @@
+#+BLOG: blog.datalab.es
+#+CATEGORY: 
+#+TAGS: 
+#+DESCRIPTION: 
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: Primer Encuentro Internacional blockchain y periodismo
+#+DATE: <2017-01-17 mar 16:00>
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+TOC: headlines 2
+#+LATEX_HEADER: \usepackage[english]{babel}
+#+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
+#+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Protocolo Primer Encuentro Internacional Blockchain/Periodismo">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight notes)
+#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
+#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
+#+LATEX_HEADER: \maketitle
+#+LATEX_HEADER: \tableofcontents
+
+* ¿Será blockchain el futuro de los medios de comunicación?
+
+OléChain organiza el lunes 23 de enero el *Primer Encuentro Internacional sobre Blockchain y Periodismo*. Se trata de un evento para debatir y afrontar cómo esta tecnología puede cambiar el futuro de la industria de los medios de comunicación y de la profesión periodística.
+
+La principal fuerza de esta innovación reside en su capacidad de romper la cadena de intermediarios en muchos servicios y procesos empresariales. Blockchain funciona como un libro contable de acontecimientos digitales compartido entre millones de ordenadores conectados en el mundo, con habilidad para transferir y almacenar información confidencial en un espacio seguro, permanente y anónimo.
+
+En el ámbito del periodismo, plataformas como [[https://steemit.com][Steemit]] o [[https://decent.ch/][Decent]] ya recompensan directamente a periodistas o blogueros con criptomonedas. En el área de los medios audiovisuales, la plataforma de contenidos digitales [[https://singulardtv.com/][SingularDTV]] también remunera a los creadores de contenidos con criptodivisas. Asimismo, la agencia [[http://www.reuters.com/article/us-tech-blockchain-thomson-reuters-idUSKCN10D1U2][Thomson Reuters]] ya está estudiando la aplicación de Blockchain en su negocio. Lo hace [[https://blogs.thomsonreuters.com/answerson/hyperledger-project-partnering-explore-disruptive-technology/][en colaboración con Hyperledger]], el proyecto que la [[https://www.linuxfoundation.org/][Fundación Linux]] ha creado para que
+esta tecnología avance entre las industrias, y en el que participan importantes multinacionales y entidades financieras, como IBM, Intel, Airbus, Cisco, JP Morgan , Wells Fargo o Swisscom.
+
+Las organizadoras y fundadoras del proyecto OléChain son las periodistas Covadonga Fernández y Úrsula O'Kuinghttons, quienes han advertido de la necesidad de colocar a los medios de
+comunicación junto a las compañías y startups que están irrumpiendo en su modelo de negocio. Como ha sucedido con Google, Facebook, Twitter o Amazon, actual dueño del Washington Post. En un momento donde todo converge y nadie sabe quién será su próximo competidor, tiene todo el sentido que los medios de comunicación establezcan alianzas con compañías tecnológicas, al igual que están haciendo otros sectores centenarios, como el de la banca, la telefonía o el energético.
+
+Los medios de comunicación aún padecen las consecuencias de la aparición de la Web. Desde 2008 hasta octubre de 2015,
+cerraron en España 375 empresas periodísticas y perdieron su puesto de trabajo 12.200 profesionales, según un Informe de la
+Asociación de la Prensa de Madrid (APM).
+
+* Agenda     
+- 18:00 horas, presentación del evento por Covadonga Fernández (3’)
+- 18:05 horas, entrevista a Alberto Gómez Toribio para que contextualice Blockchain en el sector de los medios. Tres preguntas  (6’)
+- 18:15 horas,
+ - Skype con Meinhard Benn, fundador de SatoshyPay (4’)
+ - Pieter Haasnoot, fundador de Publiscm:  (4’)
+ - Entrevista: Úrsula O'Kuinghttons
+- 18:25 horas: Úrsula llama a Astyanax Kanakakis, embajador de Hyperledger y CEO de Norbloc para que cuente qué es Hyerledger y que le ha aportado este proyecto a su empresa (5’)
+- 18:30, Úrsula llama al resto de los ponentes para que suban al escenario e inicia inicia ronda de preguntas a los ponentes, cuyas respuestas no deberán exceder de los 2’:
+ - Carlos Kuchkovsky, CTO de nuevos negocios digitales en BBVA
+ - Alberto Barreiro,  director de Experiencia de grupo Prisa
+ - Ángel Hernández,  CTO de Seguridad y Blockchain en IBM
+ - Úrsula  O’Kuinghttons (moderadora)
+ - Astyanax Kanakakis, fundador y CEO de Norbloc
+ - Henrik Kaufholz, periodista danés en Politiken y presidente del Centro Europeo de Libertad de prensa
+ - Alberto Gómez Toribio,  CTO en Barrabés.biz
+- 20:30 horas, fin del evento y vino español
