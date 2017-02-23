@@ -1,0 +1,51 @@
+#+BLOG: medialab-prado.es/datalab
+#+CATEGORY: calendario, datalab 
+#+TAGS: boletín, actividades, 2016, 2017, datascience, datajournalism, periodismodatos, periodismodedatos, openaccess, openscience, citizendrivendata, data, opendata, datos, datosabiertos, alfabetización
+#+DESCRIPTION: Qué es el Datalab de Medialab Prado
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: Datalab de Medialab Prado
+#+DATE: [2016-12-14 mié 10:00]
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+TOC: headlines 2
+#+LATEX_HEADER: \usepackage[english]{babel}
+#+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
+#+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Herramientas de Scraping de PDF y Web.">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight notes)
+#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
+#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
+#+LATEX_HEADER: \maketitle
+#+LATEX_HEADER: \tableofcontents
+
+En 2016 ha comenzado sus actividades Datalab, uno de los nuevos laboratorios de Medialab-Prado que se dedica a la investigación y prototipado de proyectos de datos.
+
+Las actividades relacionadas con datos llevan realizándose hace años en Medialab, desde sus inicios. De forma estable, la línea /Visualizar/, comienza en 2007 para atender a la disciplina de la visualización de datos, un elemento transversal que utiliza el inmenso poder de comunicación de las imágenes para explicar de manera comprensible las relaciones de significado, causa y dependencia que se pueden encontrar entre las grandes masas abstractas de información que generan los procesos científicos y sociales.
+
+El proyecto Visualizar lo inicia José Luis de Vicente como parte de un proceso de investigación abierto y participativo en torno a la teoría, las herramientas y las estrategias de visualización de información.
+
+Esta relación explica también cómo Adrian Holovaty, mentor de la primera edición de Visualizar, participa días después en la reunión promovida por O'Reilly en Sebastopol (California) donde se promueven los [[https://opengovdata.org/][8 principios de los datos abiertos de los gobiernos]] (Open Government Data); o Benjamin Fry, doctor por el MIT Media Laboratory donde forma parte del Aesthetics + Computation Group, dedicado a la investigación combinada de campos como la informática, la estadística, el diseño gráfico y la visualización de datos como herramientas para comprender datos complejos.
+
+También otoño de 2011, tras una jornada sobre datos abiertos realizada junto con [[http://www.civio.es][Civio]] y [[http://www.access-info.org][Access Info]], se crea el [[http://medialab-prado.es/article/periodismo_de_datos_-_grupo_de_trabajo][Grupo de Periodismo de Datos]], dedicado a compartir, difundir, explorar y producir proyectos o herramientas periodísticas donde el trabajo con los datos es crucial. La actividad de este grupo se ha traducido en más de 30 actividades mensuales, cuatro talleres de producción de periodismo de datos, cuatro jornadas realizadas en colaboración con Open Knowledge España y más de 400 personas apuntadas a la lista de correo y de 800 apuntadas al Meetup.
+
+Son dos de los ejemplos más destacados y también continuados en el tiempo, aunque entre medias se producen cientos de actividades relacionadas con los datos, entre las que se podrían incluir la celebración del día de los datos abiertos, la celebración del Ada Day, la celebración del Día del Software Libre, entre otras muchas.
+
+En primavera de 2015 Medialab Prado propuso ir un paso más allá y reunión a diferentes organizaciones e iniciativas en torno a un programa de actividades que exploró las prácticas creativas, sociales y políticas relacionadas con los datos: [[http://medialab-prado.es/article/ojoaldata][Ojo al Data. Cultura, economía y política de los datos]]. De aquel programa salieron muchas propuestas interesantes. La que más ha perdurado en el tiempo ha sido la del grupo [[http://medialab-prado.es/article/ojoaldata100][Ojoaldata100]], que proponía identificar los 100 conjuntos de datos más importantes para que libere una ciudad, al estilo de los [[http://www.transparencia.org.es/][80 indicadores de Transparencia Internacional]] o los [[http://www.opendata500.com/][Open Data 500]] para los países.
+
+A principios de octubre de 2016 se celebró en Madrid la [[http://opendatacon.org][Conferencia Internacional de Datos Abiertos]], los días 6 y 7, y por ello Medialab-Prado participó organizando tres pre eventos oficiales ([[http://medialab-prado.es/article/visualizar16-ciudades-abiertas-open-cities][Visualizar'16]], [[http://medialab-prado.es/article/journocoders-cuenta-la-realidad-con-herramientas-de-datos][Journocoders]] y [[http://opencitiessummit.org][Open Cities Summit]]), una [[http://opendatacon.org/agenda/social-events/celebrate-open-data-week-in-madrid/][fiesta]], un [[http://opendatacon.org/agenda/exhibitors/][stand en la conferencia oficial]] y [[http://opendatacon.org/agenda/][miembros de Ojoaldata100 presentaron el estado actual del proyecto]].
+
+Mira toda la agenda de eventos de [[https://github.com/medialab-prado/datalab/blob/master/2016.org][2016]] y todo lo que viene en [[https://github.com/medialab-prado/datalab/blob/master/2017.org][2017]].
+
+
+
+

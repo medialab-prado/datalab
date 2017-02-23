@@ -1,0 +1,58 @@
+#+BLOG: blog.datalab.es
+#+CATEGORY: 
+#+TAGS: 
+#+DESCRIPTION: 
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: Manipulación de datos y aprendizaje automático con R en el sector financiero
+#+DATE: <2017-02-09 jue 16:00>
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+TOC: headlines 2
+#+LATEX_HEADER: \usepackage[english]{babel}
+#+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
+#+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Herramientas de Scraping de PDF y Web.">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight notes)
+#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
+#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
+#+LATEX_HEADER: \maketitle
+#+LATEX_HEADER: \tableofcontents
+
+R-Ladies propone una sesión sobre R en el sector financiero. Para ello contaremos con una invitada muy especial, Chiayi Yen, fundadora de R-Ladies Taipei que hace escala en Madrid en su viaje por Europa y nos visita en Medialab-Prado.
+
+Chiayi Yen es la fundadora de R-Ladies Taipei y trabaja actualmente como consultora en análisis de datos en iiNumber y Lendband. En esta charla compartirá algunas experiencias de su trabajo en la manipulación de datos y el modelado de aprendizaje automático para el sector financiero, especialmente en el campo del moderado de comercio cuantitativo.
+
+Para ello nos presentará algunas de las herramientas que utilizada como el servidor de R de Microsoft, Azure ML Studio y Quantstrat, una herramienta de testeo en R.
+
+* Cuándo
+<2017-02-25 sáb 11:00-13:00>
+
+* Dónde
+
+Cantina de Medialab-Prado
+
+* Aviso
+
+Este meetup será en inglés, no importa que seas bueno o malo en inglés, lo que importa es que vengas y lo disfrutes, como cada mes.
+
+Y como siempre, después de las charlas tomaremos un pequeño bocado donde podréis conocer más a nuestra compañera taipeiana.
+
+Speaker:
+
+    Chiayi Yen, the founder of R-Ladies Taipei, is currently a data science consultant in iiNumber and LendBand. With professional experiences in hedge fund and other financial institutions, her specialty lies on quantitative modeling especially in the fields of portfolio management, proprietary trading, and peer-to-peer lending. In addition, she is a enthusiastic Python and R developer who is willing to share her experiences in Machine Learning and data Extract-Transform-Load, as she has done in PyCon APAC/TW, PyCon JP, Shanghai Rconf, Microsoft HK tech forum, and other open source communities.
+
+
+#+CAPTION:  Mapa ‘Upside down’. Distancias desde Sidney a las principales ciudades del mundo. Luis Sevillano. Publicado en El Independiente http://www.elindependiente.com/tendencias/2017/01/23/la-construccion-de-sidney/
+#+ATTR_HTML: :alt Mapa ‘Upside down’. Distancias desde Sidney a las principales ciudades del mundo. Luis Sevillano. Publicado en El Independiente http://www.elindependiente.com/tendencias/2017/01/23/la-construccion-de-sidney/ :title sidney
+file:///australia-desktop-t-1436x808.jpg
+
