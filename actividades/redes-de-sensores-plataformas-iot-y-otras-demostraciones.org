@@ -1,0 +1,51 @@
+#+BLOG: blog.datalab.es
+#+CATEGORY: 
+#+TAGS: 
+#+DESCRIPTION: 
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: Redes de sensores, plataformas IoT y otras demostraciones
+#+DATE: <2017-03-01 mié 16:00>
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+TOC: headlines 2
+#+LATEX_HEADER: \usepackage[english]{babel}
+#+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
+#+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Herramientas de Scraping de PDF y Web.">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight notes)
+#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
+#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
+#+LATEX_HEADER: \maketitle
+#+LATEX_HEADER: \tableofcontents
+* Entradilla
+IoT Analytics Spain es una comunidad de científicos de datos y otros perfiles dentro del mundo Big Data que el próximo lunes, 13 de Marzo nos dan la oportunidad de conocer y aprender más sobre el mundo del Internet de las Cosas o de Internet of Things (IoT). 
+
+* Cuándo, cómo
+- Cuándo: 27.02.207 19:00h - 20:00h
+- Dónde: Auditorio
+
+* Intro
+Durante el encuentro participarán varios ponentes que nos hablarán sobre diseños de plataformas IoT, herramientas y protocolos existentes a la hora de crear una red M2M (Machine to Machine) y que nos contarán cómo se solventan los problemas de compatibilidad y seguridad mientras nos muestran un ejemplo de cómo orientar una plataforma IoT de forma ágil.
+
+#+CAPTION: IoT Analytics Spain
+#+ATTR_HTML: :alt IoT Analytics Spain :title IoTAS
+https://farm1.staticflickr.com/528/18488623448_0db1dfac00_z_d.jpg
+
+
+Además, tendremos la oportunidad de ver varias demostraciones con wearables y aplicaciones de sensores en el sector salud. Nos explicarán los peligros y vulnerabilidades existentes en este sector y nos contarán más sobre una red de sensores para llevar a cabo una monitorización ambiental. 
+
+Apúntate por el [[https://www.meetup.com/es-ES/IoT-Analytics-Spain/events/237701990/][Meetup]] de IoT Analytics Spain, un punto de encuentro para intercambiar experiencias y compartir proyectos que además ofrece la oportunidad de crecimiento profesional en el mundo del /data science/.
+
+La charla terminará con una sesión de preguntas en la que tendremos la oportunidad de conocernos mejor y disfrutar de un momento de networking con otros expertos.
+
+

@@ -1,0 +1,42 @@
+#+BLOG: blog.datalab.es
+#+CATEGORY: 
+#+TAGS: 
+#+DESCRIPTION: 
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: Noche de los libros
+#+DATE: <2017-03-01 mié 16:00>
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+TOC: headlines 2
+#+LATEX_HEADER: \usepackage[english]{babel}
+#+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
+#+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Herramientas de Scraping de PDF y Web.">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight notes)
+#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
+#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
+#+LATEX_HEADER: \maketitle
+#+LATEX_HEADER: \tableofcontents
+
+#+CAPTION: Imagen de GEN de la edición del Editors Lab 2015 en Medialab-Prado. [[https://creativecommons.org/licenses/by-nc/2.0/][Licencia CC]]
+#+ATTR_HTML: :alt Imagen de GEN de la edición del Editors Lab 2015 en Medialab-Prado. [[https://creativecommons.org/licenses/by-nc/2.0/][Licencia CC]] :title EditorsLab_2015
+https://farm1.staticflickr.com/528/18488623448_0db1dfac00_z_d.jpg
+
+* Herramientas libres y abiertas para la autoedición de libros
+Las nuevas tecnologías ofrecen un conjunto de herramientas para tener un control total de la edición combinado con la mejor calidad tipográfica. A través del editor Emacs y de la sintaxis org-mode convertimos el texto a LaTeX, HTML o PDF.
+Desde la experiencia de [[http://www.libremanuals.net][Libremanuals]], David Arroyo Menéndez ofrecerá un taller práctico con las principales tecnologías libres para hacer autoedición: LaTeX, texinfo, orgmode, docbook, markdown, etc., a través de un [[http://blog.infotics.es/2015/11/11/editor-de-textos/][buen editor de textos]].
+** David Arroyo Menéndez
+David Arroyo Menéndez es ingeniero de sistemas con más de veinte años de experiencia. Ha participado en diversas comunidades de Internet como Barrapunto.com, Sindominio.net o Ourproject.org. La traducción del libro de Org-mode y GCC le llevaron a crear el proyecto [[http://libremanuals.net/][Libremanuals.net]], donde recopilar los trabajos de autoedición de manuales técnicos libres.
+Actualmente trabaja como desarrollador en el [[https://www.bsc.es/][Barcelona Supercomputing Center]], y ha pasado por la UNED, el BBVA o Dabne.
+Es un entusiasta de Libresoft, Software Libre, GNU Emacs, desarrollo web, aprendizaje en línea y los movimientos sociales.
+
