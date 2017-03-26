@@ -36,35 +36,36 @@
  - [[#grupo-de-periodismo-de-datos-journocodersmad][Grupo de periodismo de datos: JournocodersMAD]]
    - [[#temas][Temas]]
    - [[#mapas-con-qgis-y-d3js][Mapas con QGIS y D3js]]
+   - [[#editors-lab][Editors Lab]]
  - [[#grupos-de-alfabetización-digital][Grupos de alfabetización digital]]
    - [[#temas-1][Temas]]
+   - [[#mi-primera-configuración-emacs-con-elisp-y-org-mode][Mi primera configuración Emacs con elisp y Org-mode]]
+   - [[#editatona-sobre-científicas-en-la-wikipedia][Editatona sobre científicas en la Wikipedia]]
+   - [[#14-febrero-día-del-amor-por-el-software-libre][14 Febrero: Día del amor por el software libre]]
+   - [[#aprendizaje-automático-con-r-y-python][Aprendizaje automático con R y Python]]
+   - [[#manipulación-de-datos-y-aprendizaje-automático-con-r-en-el-sector-financiero][Manipulación de datos y aprendizaje automático con R en el sector financiero]]
+   - [[#redes-de-sensores-plataformas-iot-y-otras-demostraciones][Redes de sensores, plataformas IoT y otras demostraciones]]
+   - [[#data-day-taller-sobre-visualización-de-datos-con-grafoscopio][Data Day: taller sobre visualización de datos con Grafoscopio]]
+   - [[#organiza-tu-vida-con-emacs-y-org-mode][Organiza tu vida con Emacs y Org-mode]]
+   - [[#django-vs-micropython][Django Vs MicroPython]]
+   - [[#sports-analytics][Sports Analytics]]
+   - [[#dsm-abril-18][DSM abril 18]]
+   - [[#dsm-mayo-16][DSM mayo 16]]
+   - [[#dsm-junio-20][DSM junio 20]]
+   - [[#adaday2017][AdaDay2017]]
  - [[#grupo-de-datos-abiertos][Grupo de datos abiertos]]
    - [[#temas-2][Temas]]
+   - [[#día-de-los-datos-abiertos][Día de los datos abiertos]]
  - [[#grupo-de-documentación-y-narrativas-digitales][Grupo de documentación y narrativas digitales]]
    - [[#temas-3][Temas]]
+   - [[#podcast-11f][Podcast 11F]]
  - [[#transparencia-contrataciones-públicas][Transparencia contrataciones públicas]]
- - [[#jornadas-de-periodismo-de-datos][Jornadas de Periodismo de datos]]
+ - [[#jornadas-de-periodismo-de-datos-2017----------------------------------toc][Jornadas de Periodismo de datos 2017                                  :TOC]]
+   - [[#3-mayo][3 Mayo:]]
  - [[#visualizar17][Visualizar'17]]
    - [[#cuándo-1][Cuándo]]
    - [[#temática-1][Temática]]
- - [[#adaday2017][AdaDay2017]]
- - [[#hackatónones][Hackatón(ones)]]
- - [[#editors-lab][Editors Lab]]
  - [[#parcours][Parcours]]
- - [[#meetup-data-science-madrid][Meetup Data Science Madrid]]
-   - [[#fechas-data-science-madrid][Fechas Data Science Madrid]]
-   - [[#sesión-21-febrero-aprendizaje-automático-con-r-y-python][Sesión 21 febrero: aprendizaje automático con R y Python]]
-   - [[#sesión-miércoles-22-de-marzo-dsm--r-ladies][Sesión Miércoles 22 de Marzo, DSM & R-Ladies]]
-   - [[#martes-18-de-abril][Martes 18 de abril]]
-   - [[#mayo-martes-16][Mayo: martes 16]]
-   - [[#junio-martes-20][Junio: martes 20]]
- - [[#r-ladies][R-Ladies]]
-   - [[#manipulación-de-datos-y-aprendizaje-automático-con-r-en-el-sector-financiero][Manipulación de datos y aprendizaje automático con R en el sector financiero]]
- - [[#ilovefs][ILOVEFS]]
-   - [[#editatona-sobre-científicas-en-la-wikipedia][Editatona sobre científicas en la Wikipedia]]
-   - [[#14-febrero-día-del-amor-por-el-software-libre][14 Febrero: Día del amor por el software libre]]
- - [[#día-de-los-datos-abiertos][Día de los datos abiertos]]
-   - [[#4-marzo][4 Marzo:]]
  - [[#jornadas-de-periodismo-de-datos-2017][Jornadas de Periodismo de Datos 2017]]
 
 * Taller de producción de periodismo de datos                           :TOC:
@@ -89,12 +90,19 @@ La España vacíaMigraciones
 - Mapas
 - Publicación web
 
-** Mapas con QGIS y D3js
+** Mapas con QGIS y D3js                                 :qgis:d3:d3js:mapas:
 - Cuándo: <2017-02-18 sáb 11:00-13:00>
 - URL: http://medialab-prado.es/article/mapas-con-qgis-y-d3js
 - Tema: QGIS y D3js
 - Coordinador: Adrián Blanco
 - Ponente: Luis Sevillano
+
+** Editors Lab                               :periodismodatos:ddj:editorslab:
+   SCHEDULED: <2017-03-02 jue>--<2017-03-04 sáb>
+   :PROPERTIES:
+   :URL:      http://medialab-prado.es/article/convocatoria-para-la-edicion-2017-de-el-confidencial-editors-lab
+   :END:
+ - URL: http://medialab-prado.es/article/convocatoria-para-la-edicion-2017-de-el-confidencial-editors-lab
 
 * Grupos de alfabetización digital                                      :TOC:
 ** Temas
@@ -106,7 +114,92 @@ La España vacíaMigraciones
 - Formatos de documentos
 - Herramientas de manipulación/conversión/uso de documentos
 - Programación
- 
+** Mi primera configuración Emacs con elisp y Org-mode :emacs:orgmode:elisp:lisp:
+   SCHEDULED: <2017-01-31 mar 18:30-20:30>
+   :PROPERTIES:
+   :URL:      http://medialab-prado.es/article/mi-primera-configuracion-emacs-con-elisp-y-orgmode
+   :END:
+<2017-01-31 mar 18:30-20:30>
+
+** Editatona sobre científicas en la Wikipedia      :editatona:11f:wikipedia:
+   SCHEDULED: <2017-02-11 sáb>
+   :PROPERTIES:
+   :URL:      http://medialab-prado.es/article/editatona-sobre-cientificas-en-wikipedia-11f
+   :END:
+- URL: http://medialab-prado.es/article/editatona-sobre-cientificas-en-wikipedia-11f
+
+** 14 Febrero: Día del amor por el software libre :freesoftware:softwarelibre:ilovefs:
+   SCHEDULED: <2017-02-14 mar>
+   :PROPERTIES:
+   :URL:      http://medialab-prado.es/article/dia-del-amor-por-el-software-libre-ilovefs-2017
+   :END:
+- URL: http://medialab-prado.es/article/dia-del-amor-por-el-software-libre-ilovefs-2017
+
+** Aprendizaje automático con R y Python     :dsm:datasciencemadrid:R:python:
+   SCHEDULED: <2017-02-21 mar 19:00-20:30>
+   :PROPERTIES:
+   :URL:      http://medialab-prado.es/article/aprendizaje-automatico-con-r-y-python
+   :END:
+- Título: Aprendizaje automático con R y Python
+- URL: http://medialab-prado.es/article/aprendizaje-automatico-con-r-y-python
+- Cuándo: <2017-02-21 mar 19:00-20:30>
+
+** Manipulación de datos y aprendizaje automático con R en el sector financiero :rladies:R:machinelearning:aprendizajeautomatico:
+   SCHEDULED: <2017-02-25 sáb>
+   :PROPERTIES:
+   :URL:      http://medialab-prado.es/article/manipulacion-de-datos-y-aprendizaje-automatico-con-r-en-el-sector-financiero
+   :END:
+<2017-02-25 sáb 11:00-13:00>
+R-Ladies propone una sesión sobre R en el sector financiero. Para ello contaremos con una invitada muy especial, Chiayi Yen, fundadora de R-Ladies Taipei que hace escala en Madrid en su viaje por Europa y nos visita en Medialab-Prado. 
+
+** Redes de sensores, plataformas IoT y otras demostraciones
+   SCHEDULED: <2017-03-06 lun 19:00-20:00>
+   :PROPERTIES:
+   :URL:      http://medialab-prado.es/article/redes-de-sensores-plataformas-iot-y-otras-demostraciones
+   :END:
+
+** Data Day: taller sobre visualización de datos con Grafoscopio :grafoscopio:dataviz:periodismodatos:ddj:
+   SCHEDULED: <2017-03-18 sáb 11:00-13:30>
+   :PROPERTIES:
+   :URL:      http://medialab-prado.es/article/data-day-taller-sobre-visualizacion-de-datos-con-grafoscopio
+   :END:
+
+** Organiza tu vida con Emacs y Org-mode :emacs:orgmode:elisp:lisp:trello:
+   SCHEDULED: <2017-03-23 jue 19:00-20:30>
+   :PROPERTIES:
+   :URL:      http://medialab-prado.es/article/organiza-tu-vida-con-emacs-y-org-mode
+   :END:
+<2017-03-23 jue 19:00-20:30>
+** Django Vs MicroPython                                      :python:django:
+   SCHEDULED: <2017-03-27 lun 18:30-20:30>
+   :PROPERTIES:
+   :URL:      http://medialab-prado.es/article/django-vs-micropython
+   :END:
+
+** Sports Analytics :dss:datasci:datascience:datasciencespain:synergicpartners:
+   SCHEDULED: <2017-04-03 lun 19:00-20:30>
+   :PROPERTIES:
+   :URL:      http://medialab-prado.es/article/sports-analytics
+   :END:
+
+** DSM abril 18                   :dsm:datasci:datascience:datasciencemadrid:
+   SCHEDULED: <2017-04-18 mar>
+<2017-04-18 mar 19:00-20:30>
+** DSM mayo 16                    :dsm:datascience:datasci:datasciencemadrid:
+   SCHEDULED: <2017-05-16 mar>
+<2017-05-16 mar 19:00-20:30>
+** DSM junio 20                   :dsm:datascience:datasciencemadrid:datasci:
+   SCHEDULED: <2017-06-20 mar>
+<2017-06-20 mar 19:00-20:30>
+
+** AdaDay2017
+   SCHEDULED: <2017-10-10 mar>
+   :PROPERTIES:
+   :URL:      http://findingada.com/about/when-is-ald/
+   :END:
+ - Cuándo: <2017-10-10 mar>
+ - Por qué: http://findingada.com/about/when-is-ald/
+
 * Grupo de datos abiertos                                               :TOC:
 ** Temas
 - Datos abiertos
@@ -117,6 +210,13 @@ La España vacíaMigraciones
 - Herramientas de manipulación/conversión/edición de datos (expresiones regulares, comandos, Open Refine...).
 - Publicación
 
+** Día de los datos abiertos                         :datosabiertos:opendata:
+   SCHEDULED: <2017-03-04 sáb 09:00-18:00>
+   :PROPERTIES:
+   :URL:      http://medialab-prado.es/article/dia-de-los-datos-abiertos-2017
+   :END:
+ - Cuándo: <2017-03-04 sáb 09:30-18:00>
+ - URL: http://medialab-prado.es/article/dia-de-los-datos-abiertos-2017
 
 * Grupo de documentación y narrativas digitales                         :TOC:
 
@@ -126,12 +226,19 @@ La España vacíaMigraciones
 - Podcast
 - Vídeo
 - Uso de archivos
+** Podcast 11F
+   SCHEDULED: <2017-02-11 sáb>
 
 * Transparencia contrataciones públicas                                 :TOC:
 Por definir
-* Jornadas de Periodismo de datos                                       :TOC:
+* Jornadas de Periodismo de datos 2017                                  :TOC
+** 3 Mayo:
+   - Dia de la libertad de prensa
+     Aqui podriamos dar una charla pero no se muy bien sobre que tematica.... tengo una buena de webscraping & apis en R con ejemplos sobre el api de meetup!, si no te encaja  ¿alguna idea?
+
 - Cuándo: <2017-05-03 mié>--<2017-05-07 dom>
 * Visualizar'17                                                         :TOC:
+  SCHEDULED: <2017-09-15 vie>--<2017-09-30 sáb>
 ** Cuándo
 - Total: <2017-09-15 vie>--<2017-09-30 sáb>
 - Simposio: <2017-09-15 vie>--<2017-09-16 sáb>
@@ -141,64 +248,11 @@ Por definir
 ** Temática
 Migraciones
 
-* AdaDay2017                                                            :TOC:
-- Cuándo: <2017-10-10 mar>
-- Por qué: http://findingada.com/about/when-is-ald/
-
-* Hackatón(ones)                                                        :TOC:
-
-* Editors Lab                                                           :TOC:
-- URL: http://medialab-prado.es/article/convocatoria-para-la-edicion-2017-de-el-confidencial-editors-lab
 
 * Parcours                                                              :TOC:
 El parcour es una de las actividades que se realizan en Medialab para acercarnos a temáticas interesantes en campos diversos del conocimiento. 
 El evento más reciente fue en 2015 cuando Medialab-Prado propuso una serie de actividades en torno a la cultura, economía y política de los datos bajo la denominación de Ojo al data. En este caso eran recorridos por la ciudad de Madrid para conocer algunas de las organizaciones colaboradoras que trabajan con datos, y así se visitaron diez espacios/eventos interesantes que creemos podrían ser potenciales sitios para volver, amén de otros de interés por apuntar al máximo de ocho visitas previstas.
 
-* Meetup Data Science Madrid                                            :TOC:
-
-** Fechas Data Science Madrid
-- 22 marzo: Miercoles, esta sesion es conjunta con las rladies
-  ¿Podriamos moverla al Martes 18?
-- 19 abril: Miercoles  ¿Podriamos moverla al Martes 18?
-- 16 mayo: Martes OK esta la mantenemos
-     21 Junio: Miercoles 
-       ¿Podriamos moverla al Martes 20?
-
-** Sesión 21 febrero: aprendizaje automático con R y Python
-- Título: Aprendizaje automático con R y Python
-- URL: http://medialab-prado.es/article/aprendizaje-automatico-con-r-y-python
-- Cuándo: <2017-02-21 mar 19:00-20:30>
-
-** Sesión Miércoles 22 de Marzo, DSM & R-Ladies
-- Cuańdo: <2017-03-22 mié 19:00-20:30>
-- Notas: quizás se haga conjuntamente con grupo R el 21.
-
-** Martes 18 de abril
-<2017-04-18 mar 19:00-20:30>
-** Mayo: martes 16
-<2017-05-16 mar 19:00-20:30>
-** Junio: martes 20
-<2017-06-20 mar 19:00-20:30>
-
-* R-Ladies                                                              :TOC:
-** Manipulación de datos y aprendizaje automático con R en el sector financiero
-<2017-02-25 sáb 11:00-13:00>
-R-Ladies propone una sesión sobre R en el sector financiero. Para ello contaremos con una invitada muy especial, Chiayi Yen, fundadora de R-Ladies Taipei que hace escala en Madrid en su viaje por Europa y nos visita en Medialab-Prado. 
-
-* ILOVEFS                                                               :TOC:
-** Editatona sobre científicas en la Wikipedia
-- URL: http://medialab-prado.es/article/editatona-sobre-cientificas-en-wikipedia-11f
-
-** 14 Febrero: Día del amor por el software libre
-- URL: http://medialab-prado.es/article/dia-del-amor-por-el-software-libre-ilovefs-2017
-
-* Día de los datos abiertos                                             :TOC:
-- Cuándo: <2017-03-04 sáb 09:30-18:00
-- URL: http://medialab-prado.es/article/dia-de-los-datos-abiertos-2017
-
-** 4 Marzo:
-   - Dia de la libertad de prensa
-     Aqui podriamos dar una charla pero no se muy bien sobre que tematica.... tengo una buena de webscraping & apis en R con ejemplos sobre el api de meetup!, si no te encaja  ¿alguna idea?
 * Jornadas de Periodismo de Datos 2017                                  :TOC:
 - Cuándo: <2017-05-03 mié>--<2017-05-06 sáb>
 
